@@ -1,4 +1,4 @@
-# Twitter/X `x-client-transaction-id` Generation in Python
+# Twitter/X `x-client-transaction-id` Reverse Engineering and Generation in Python
 
 This repository contains a Python implementation for generating the `x-client-transaction-id` HTTP header, which is used by X (formerly Twitter) in their internal API calls.
 
